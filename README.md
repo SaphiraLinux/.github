@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://saphira.vm2.uk/images/saphira-linux-brand-icon-logo-1200.webp">
-  <img alt="Saphira Linux" src="https://saphira.vm2.uk/images/saphira-linux-brand-icon-light-logo-1200.webp" width="600">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SaphiraLinux/brand/main/logos/saphira-linux-brand-icon-logo-1200.webp">
+  <img alt="Saphira Linux" src="https://raw.githubusercontent.com/SaphiraLinux/brand/main/logos/saphira-linux-brand-icon-light-logo-1200.webp" width="600">
 </picture>
 
 # It's so Simple it Hurts.
@@ -17,8 +17,8 @@
 
 <table>
 <tr>
-<td width="50%" valign="top"><a href="https://saphira.vm2.uk/why-saphira"><img src="https://saphira.vm2.uk/images/saphira-proof-320.webp" alt="A developer holding a slate showing the musl libc logo, sitting beside Saphira the blue dragon, Tux the penguin and a laptop" width="300"></a><br><sub><b>Saphira</b> — musl + OpenRC. The release line people run.</sub></td>
-<td width="50%" valign="top"><a href="https://saphira.vm2.uk/roadmap#saphira-d"><img src="https://saphira.vm2.uk/images/saphira-d-proof-320.webp" alt="A developer holding a book titled 'the usual way, huh?' labelled systemd, beside Saphira the blue dragon, Tux the penguin and a laptop" width="300"></a><br><sub><b>Saphira-d</b> — musl + systemd. In development.</sub></td>
+<td width="50%" valign="top"><a href="https://saphira.vm2.uk/why-saphira"><img src="https://raw.githubusercontent.com/SaphiraLinux/brand/main/artwork/saphira-proof-320.webp" alt="A developer holding a slate showing the musl libc logo, sitting beside Saphira the blue dragon, Tux the penguin and a laptop" width="300"></a><br><sub><b>Saphira</b> — musl + OpenRC. The release line people run.</sub></td>
+<td width="50%" valign="top"><a href="https://saphira.vm2.uk/roadmap#saphira-d"><img src="https://raw.githubusercontent.com/SaphiraLinux/brand/main/artwork/saphira-d-proof-320.webp" alt="A developer holding a book titled 'the usual way, huh?' labelled systemd, beside Saphira the blue dragon, Tux the penguin and a laptop" width="300"></a><br><sub><b>Saphira-d</b> — musl + systemd. In development.</sub></td>
 </tr>
 </table>
 
@@ -157,6 +157,7 @@ affected, how it was reproduced, how it was fixed.
 - **Package repository** — <https://packages.akadata.ltd/saphira/main/>
 - **Checksums** — <https://saphira.vm2.uk/checksums>
 - **Gopher** — `gopher://saphira.vm2.uk/` — no pictures, no noise, just the words
+- **Brand assets** — [`SaphiraLinux/brand`](https://github.com/SaphiraLinux/brand) — logo and dragon artwork, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 - **Vendor** — [AKADATA](https://akadata.ltd)
 
 ## Licence and provenance
@@ -175,4 +176,5 @@ upstream software keeps its upstream licence.
 
 ---
 
-<div align="center"><sub>Saphira Linux is a project of <a href="https://akadata.ltd">AKADATA</a>, built in Hampshire, England.</sub></div>
+<div align="center"><sub>Saphira Linux is a project of <a href="https://akadata.ltd">AKADATA</a>, built in Hampshire, England.<br>
+Logo and dragon artwork by AKADATA, used under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> — trademark rights excluded, no endorsement implied.</sub></div>
